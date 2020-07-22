@@ -21,19 +21,19 @@ Hooks handle external connections and make up the building blocks of an Operator
 The plugin folder structure is as follows:
 
 
-├── README.md
-
-├── __init__.py
-
-├── hooks
+    ├── README.md
 
     ├── __init__.py
 
+       ├── hooks
+
+       ├── __init__.py
+
     └── Selenium_hook.py
 
-└── operators
+    └── operators
 
-├── __init__.py
+    ├── __init__.py
 
-└── Selenium_operator.py
+    └── Selenium_operator.py
 
