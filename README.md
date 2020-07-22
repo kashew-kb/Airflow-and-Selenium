@@ -14,7 +14,12 @@ Happy Coding!
 
 # Selenium Plugin
 
-The Selenium plugin will contain a Hook and Operator, Hooks handle external connections and make up the building blocks of an Operator. The operator will execute our task. The plugin folder structure is as follows:
+The Selenium plugin will contain a Hook and Operator.
+
+Hooks handle external connections and make up the building blocks of an Operator. The operator will execute our task. 
+
+The plugin folder structure is as follows:
+
 .
 ├── README.md
 ├── __init__.py
