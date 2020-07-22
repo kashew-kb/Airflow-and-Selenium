@@ -22,11 +22,18 @@ The plugin folder structure is as follows:
 
 .
 ├── README.md
+
 ├── __init__.py
+
 ├── hooks
+
 │ ├── __init__.py
+
 │ └── Selenium_hook.py
+
 └── operators
+
 ├── __init__.py
+
 └── Selenium_operator.py
 
