@@ -38,6 +38,4 @@ The plugin folder structure is as follows:
     └── Selenium_operator.py
 
 
-To create a plugin, you need to derive the AirflowPlugin class and reference the objects you want to plug into Airflow, we do this in the __init__.py file:
-
 
