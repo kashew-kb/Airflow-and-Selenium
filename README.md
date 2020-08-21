@@ -36,6 +36,3 @@ The plugin folder structure is as follows:
     ├── __init__.py
 
     └── Selenium_operator.py
-
-
-snkdfksaeflmfrkfre
